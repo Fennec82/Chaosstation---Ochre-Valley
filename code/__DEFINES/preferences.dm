@@ -141,7 +141,7 @@ GLOBAL_LIST_INIT(voice_types_list, list(VOICE_TYPE_MASC, VOICE_TYPE_FEM, VOICE_T
 #define VOICE_PACK_DEFAULT	"Default"
 #define VOICE_PACK_MASC	"Masculine"
 #define VOICE_PACK_MASC_ELF "Elvish (Masc)"
-#define VOICE_PACK_FOP	"Foppish (Masc)"
+#define VOICE_PACK_FOP	"Twink (Masc)"
 #define VOICE_PACK_STERN "Stern (Masc)"
 #define VOICE_PACK_KNIGHT "Knightly (Masc)"
 #define VOICE_PACK_WARRIOR "Warrior (Masc)"
